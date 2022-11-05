@@ -1,4 +1,9 @@
-data
-Project
-.DS_Store
-.ipynb_checkpoint
+/data
+HW3/.ipynb_checkpoint
+HW4/**/.ipynb_checkpoint
+HW4/__pychache__
+HW5/.DS_Store
+HW5/**/.ipynb_checkpoint
+HW1/
+HW2/
+Project/
